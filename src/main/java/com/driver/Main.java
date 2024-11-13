@@ -9,3 +9,4 @@ public class Main {
         a.setName("venky");
         System.out.println(a.getName());
     }
+}
